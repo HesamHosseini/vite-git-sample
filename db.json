@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "salam",
+      "views": 300
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "phoneBook": [
+    {
+      "id": "1",
+      "name": "HesamAli",
+      "phoneNumber": "+989123456789"
+    },
+    {
+      "id": "2",
+      "name": "HassanAli",
+      "phoneNumber": "+989123456788"
+    },
+    {
+      "id": "cd2f",
+      "name": "name",
+      "phoneNumber": "123456789"
+    },
+    {
+      "id": "bef8",
+      "name": "ممد",
+      "phoneNumber": "09123456789"
+    },
+    {
+      "id": "65be",
+      "name": "رضا",
+      "phoneNumber": "09123123123"
+    },
+    {
+      "id": "8613",
+      "name": "علی",
+      "phoneNumber": "09123456789"
+    }
+  ]
+}
